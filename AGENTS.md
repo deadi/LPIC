@@ -6,7 +6,6 @@
 - place topic markdown files in the repository root (one level above any `TOPIC-10x/` folder)
 - name files as `Topic xxx: <relevant topic title>.md`
 - use codeblocks
-- use 'format' for paths and key commands
 - Use Numbering of Tables of Content.
   example:
   TOPIC 101: <titel1>
