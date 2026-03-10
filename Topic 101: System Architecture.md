@@ -16,8 +16,8 @@ Reference: LPIC-1 Objectives V5.0: https://wiki.lpi.org/wiki/LPIC-1_Objectives_V
 
 - Enable/disable integrated peripherals and extension cards.
 - Understand and inspect device resources:
-  - IRQs
-  - DMA channels
+  - IRQs (interrupt request)
+  - DMA channels (direct memory access)
   - I/O ports
   - memory addresses
 - Identify hardware characteristics and attached devices.
