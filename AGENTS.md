@@ -1,5 +1,8 @@
 # LPIC Exam Prep AGENTS.md file
 - make .md files to summarize the .pdf files
+- LPIC-1 .pdf files
+  LPI-Learning-Material-101-500-en.pdf
+  LPI-Learning-Material-102-500-en.pdf
 - use codeblocks
 - use 'format' for paths and key commands
 - Use Folderstructure with Numbering of Tables of Content.
