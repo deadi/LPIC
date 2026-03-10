@@ -3,9 +3,11 @@
 - LPIC-1 .pdf files
   LPI-Learning-Material-101-500-en.pdf
   LPI-Learning-Material-102-500-en.pdf
+- place topic markdown files in the repository root (one level above any `TOPIC-10x/` folder)
+- name files as `Topic 10x: <relevant topic title>.md`
 - use codeblocks
 - use 'format' for paths and key commands
-- Use Folderstructure with Numbering of Tables of Content.
+- Use Numbering of Tables of Content.
   example:
   TOPIC 101: <titel1>
     101.1 <subtopic-titel1>
