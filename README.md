@@ -6,3 +6,6 @@ LPI-Learning-Material-102-500-en.pdf
 
 
 
+
+## Progress
+- `TOPIC-101/101.1-101.3.md` created for objectives 101.1 to 101.3.
