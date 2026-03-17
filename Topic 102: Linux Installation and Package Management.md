@@ -90,6 +90,10 @@ efibootmgr
 ### Key Paths
 
 ```text
+/sbin/init
+/etc/inittab   #id:runlevels:action:process
+/etc/init.d/
+
 /boot
 /boot/grub/
 /boot/grub2/
