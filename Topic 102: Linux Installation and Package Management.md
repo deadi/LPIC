@@ -79,6 +79,16 @@ Objective 102.1 focuses on building a sustainable storage layout before and duri
 ### Key Commands
 
 ```bash
+$ runlevel
+# initctl list
+$ systemctl get-default
+# systemctl set-default multi-user.target
+$ systemctl status unit.service
+$ systemctl is-active unit.service
+$ systemctl is-enabled unit.service
+# systemctl list-unit-files --type=service
+# systemctl list-unit-files --type=target
+
 grub-install
 grub-mkconfig
 grub2-install
@@ -93,6 +103,8 @@ efibootmgr
 /sbin/init
 /etc/inittab   #id:runlevels:action:process
 /etc/init.d/
+
+/lib/systemd/system/
 
 /boot
 /boot/grub/
